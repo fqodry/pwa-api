@@ -1,0 +1,24 @@
+{
+  "products": [
+    {"id":1,"name":"Glossy ibis","category":"Khaki"},
+    {"id":2,"name":"Western bearded dragon","category":"Orange"},
+    {"id":3,"name":"Great cormorant","category":"Goldenrod"},
+    {"id":4,"name":"Black-throated butcher bird","category":"Green"},
+    {"id":5,"name":"Bushbaby, large-eared","category":"Blue"},
+    {"id":6,"name":"Rattlesnake, horned","category":"Pink"},
+    {"id":7,"name":"Lemur, lesser mouse","category":"Red"},
+    {"id":8,"name":"Crowned hawk-eagle","category":"Crimson"},
+    {"id":9,"name":"Green heron","category":"Crimson"},
+    {"id":10,"name":"Gray duiker","category":"Turquoise"},
+    {"id":11,"name":"Gull, swallow-tail","category":"Indigo"},
+    {"id":12,"name":"Manatee","category":"Blue"},
+    {"id":13,"name":"Legaan, ground","category":"Pink"},
+    {"id":14,"name":"Yellow-billed stork","category":"Purple"},
+    {"id":15,"name":"Clark's nutcracker","category":"Violet"},
+    {"id":16,"name":"Goose, egyptian","category":"Turquoise"},
+    {"id":17,"name":"Barbet, levaillant's","category":"Pink"},
+    {"id":18,"name":"Egyptian goose","category":"Maroon"},
+    {"id":19,"name":"Crocodile, nile","category":"Blue"},
+    {"id":20,"name":"White-lipped peccary","category":"Green"}
+  ]
+}
